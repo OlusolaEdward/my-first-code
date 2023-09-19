@@ -1,2 +1,2 @@
-# my-first-code
-first code
+# simple-age-calculator
+age calculator
